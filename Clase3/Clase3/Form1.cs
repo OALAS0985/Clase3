@@ -26,7 +26,7 @@ namespace Clase3
             cond = true;
             if (cond == true)
             {
-                textBox1.Text = "Hello world";
+                textBox1.Text = "Hello world and Oscar ";
                 textBox2.Text = Convert.ToString(i);
                 textBox3.Text = Convert.ToString(myints[0]) + " " + Convert.ToString(myints[1]) + " " + Convert.ToString(myints[2]);
             }
